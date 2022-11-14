@@ -87,11 +87,11 @@ As I continue my coding journey, I want to improve on and implement the followin
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Christine Belzie](https://www.your-site.com)
+- Frontend Mentor - [@CBID2](https://www.frontendmentor.io/profile/CBID2)
+- GitHub - [@CBID2](https://github.com/CBID2)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
