@@ -81,8 +81,8 @@ As I continue my coding journey, I want to improve on and implement the followin
 
 ### Useful resources
 
-- [CSS-Positioning](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS-Positioning](https://www.tutorialspoint.com/css/css_positioning.htm) - This helped me gain a better understanding of positioning CSS. I highly recommend this resource if you are struggling with aligning your CSS elements.
+- [Attractive Profile Card UI Design - Using CSS & HTML](https://youtu.be/bjyA8S-2tfY) - In the beginning, I was struggling with finding a way to create the card section, so I found this video. Even though I did not follow the entire tutorial, it helped me solve my issue. I highly recommend this resource to anyone still struggling with this project.
 
 
 ## Author
@@ -95,6 +95,6 @@ As I continue my coding journey, I want to improve on and implement the followin
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I first want to thank [Alana Caporale](https://alanacapcreates.com/) for aiding me in this challenge. I also want to want thank the members of [Scrimba's](https://scrimba.com/community) Discord community. If you are looking for individuals who create a positive learning environment for coders from diverse backgrounds, I highly recommend these two! 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
