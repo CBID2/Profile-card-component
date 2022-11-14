@@ -42,4 +42,10 @@
 	justify-content: center;
 	margin-top: -2rem;
   }
+  .category{
+	font-size: 12px;
+  font-weight: 400;
+  font-family: 'Numbito', sans-serif;
+  color: gray;
+  }
   
