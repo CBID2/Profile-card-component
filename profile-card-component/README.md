@@ -72,11 +72,11 @@ CSS
 
 ### Continued development
 
-As I continue my coding journey, I want to improve on the following techniques:
+As I continue my coding journey, I want to improve on and implement the following techniques:
 
 * CSS Flexbox
 * CSS positioning 
-* 
+* CSS pseudo selectors
 
 
 ### Useful resources
