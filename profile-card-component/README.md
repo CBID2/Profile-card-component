@@ -46,33 +46,34 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+* To not be afraid of the `div` element
+* Keep the code lines as simple as possible 
+* Use semantic HTML elements more effectively 
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
+#### Code lines that stood out to me
+HTML
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
+<div class="user-info">
+<h3 id="user-name">Victor Crest<span class="age">26</span></h3>
+</div>
+```
+CSS
+```
+.card{
+  position: relative;
+  display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 300px;
+	height: max-content;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
