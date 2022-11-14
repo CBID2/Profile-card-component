@@ -14,4 +14,15 @@
 	background-repeat: no-repeat, no-repeat;
 	background-position: top -463px left -256px, bottom -534px right -246px;
   }
+.card{
+	position: relative;
+	background-color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 300px;
+	height: max-content;
+	border-radius: 20px;
+	margin-top: 10px;
+}
   
