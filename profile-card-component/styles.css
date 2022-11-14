@@ -3,4 +3,15 @@
 	padding: 0px;
 	box-sizing: border-box;
   }
+  body{
+	background-color:  hsl(187, 41%, 48%);
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+	background-repeat: no-repeat, no-repeat;
+	background-position: top -463px left -256px, bottom -534px right -246px;
+  }
   
