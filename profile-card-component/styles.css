@@ -56,4 +56,31 @@
 	  font-size:18px;
 	  width: max-content;
   }
-  
+  .user-info{
+	 display: flex;
+	justify-content: center; 
+   }
+   .age{
+   font-weight: normal;
+	 font-family:'Nunito-Sans', sans-serif;
+	 color: gray;
+   }
+   .location{
+	 font-family: 'Nunito-Sans', sans-serif;
+	 color: grey;
+	 font-weight: lighter;
+	 font-size: 12px;
+   }
+   
+   .status-info{ 
+	 margin-top:10px;
+	 border-top: 1px solid grey;
+	 width: 100%;
+	 display: flex;
+	 justify-content: space-evenly;
+   
+   }
+   .coder{
+	 font-family:'Kumbah-sans', sans-serif;
+	 font-size: 12px;
+   }
